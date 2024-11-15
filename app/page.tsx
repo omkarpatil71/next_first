@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <div>
       <Link href={"/about"}>ABOUT</Link>
-      <h1>Hello world</h1>
+      <h1>Kay Randachya</h1>
     </div>
   );
 }
